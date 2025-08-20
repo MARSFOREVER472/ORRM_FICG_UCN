@@ -4,4 +4,4 @@
 
 - **_El proyecto busca establecer un centro de excelencia para la gestión sostenible de relaves mineros en la Macrozona Norte de Chile. Este proyecto se alinea con el Nicho de Especialización NE1.1: Minería como motor de desarrollo económico para el desarrollo sostenible._**
 
-- _También se alinea con la EMRA 2023-2050 en su OE2: Minería Sustentable, que en el corto plazo apunta a “Reducir la generación de residuos mineros y facilitar su valoración”_
+- **_También se alinea con la EMRA 2023-2050 en su OE2: Minería Sustentable, que en el corto plazo apunta a “Reducir la generación de residuos mineros y facilitar su valoración.”_**

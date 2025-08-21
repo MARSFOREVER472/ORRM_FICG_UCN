@@ -8,9 +8,9 @@
 
 ### **_Palabras Clave:_**
 
-- **_Mining tailings_**
-- **_Circular economy_**
-- **_Sustainable mining_**
-- **_Environmental risk mitigation_**
-- **_Tailings valorization_**
-- **_Collaborative innovation_**
+- **_Mining tailings._**
+- **_Circular economy._**
+- **_Sustainable mining._**
+- **_Environmental risk mitigation._**
+- **_Tailings valorization._**
+- **_Collaborative innovation._**

@@ -7,3 +7,10 @@
 - **_También se alinea con la EMRA 2023-2050 en su OE2: Minería Sustentable, que en el corto plazo apunta a “Reducir la generación de residuos mineros y facilitar su valoración.”_**
 
 ### **_Palabras Clave:_**
+
+- Mining tailings 
+- Circular economy
+- Sustainable mining
+- Environmental risk mitigation
+- Tailings valorization
+- Collaborative innovation

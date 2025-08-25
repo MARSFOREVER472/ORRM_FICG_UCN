@@ -14,3 +14,5 @@
 - **_Environmental risk mitigation._**
 - **_Tailings valorization._**
 - **_Collaborative innovation._**
+
+ ### Resumen ejecutivo del Proyecto:

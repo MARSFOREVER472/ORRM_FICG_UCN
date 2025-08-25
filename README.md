@@ -15,4 +15,4 @@
 - **_Tailings valorization._**
 - **_Collaborative innovation._**
 
- ### Resumen ejecutivo del Proyecto:
+ ### **_Resumen ejecutivo del Proyecto:_**

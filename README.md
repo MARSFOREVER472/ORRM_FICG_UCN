@@ -21,7 +21,12 @@
 
 **_El Observatorio se enfocará en generar conocimiento sobre las brechas existentes en la gestión de relaves, desarrollar, implementar y monitorear tecnologías innovadoras de valorización, gestión, control y estabilización de relaves, combinando investigación científica de vanguardia con aplicaciones prácticas en  colaboración con la industria minera local, universidades e  instituciones nacionales e internacionales, favoreciendo así el desarrollo sostenible de la industria minera, contribuir al desarrollo regional y disponer de información relevante para la toma de decisiones tanto públicas como privadas._**
         
-El proyecto abordará cuatro áreas principales: 1) Gestión efectiva de relaves; 2) Investigación y desarrollo de  tecnologías innovadoras para la gestión y aprovechamiento de relaves mineros bajo principios de economía circular; 3) Formación especializada; y 4) Promoción de prácticas de economía circular en la gestión de relaves. 
+El proyecto abordará cuatro áreas principales: 
+
+1) Gestión efectiva de relaves;
+2) Investigación y desarrollo de  tecnologías innovadoras para la gestión y aprovechamiento de relaves mineros bajo principios de economía circular;
+3) Formación especializada;
+4) Promoción de prácticas de economía circular en la gestión de relaves. 
 
 Los objetivos clave incluyen: 1. Implementar un laboratorio de investigación avanzada en estabilización de relaves.  2. Implementar un programa de formación especializada en gestión sostenible de relaves.  3. Crear una plataforma inteligente de colaboración entre academia, industria y autoridades reguladoras. El proyecto se desarrollará en tres fases: Fase 1-Establecimiento e Investigación Inicial, Fase 2-Implementación y Pruebas Piloto, y Fase 3- Consolidación y Difusión. 
        Se espera que el Observatorio tenga un impacto significativo en la seguridad y sostenibilidad de la industria minera regional, mejorando las prácticas de gestión de relaves, reduciendo potenciales riesgos ecológicos y socioambientales y promoviendo la economía circular. 

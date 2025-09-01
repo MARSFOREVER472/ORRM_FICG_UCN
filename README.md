@@ -23,11 +23,11 @@
         
 ### **_El proyecto abordará cuatro áreas principales:_**
 
-**_1) Gestión efectiva de relaves;_**
+**_1) Gestión efectiva de relaves._**
 
-**_2) Investigación y desarrollo de  tecnologías innovadoras para la gestión y aprovechamiento de relaves mineros bajo principios de economía circular;_**
+**_2) Investigación y desarrollo de  tecnologías innovadoras para la gestión y aprovechamiento de relaves mineros bajo principios de economía circular._**
 
-**_3) Formación especializada;_**
+**_3) Formación especializada._**
 
 **_4) Promoción de prácticas de economía circular en la gestión de relaves._**
 

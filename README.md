@@ -31,7 +31,7 @@
 
 **_4) Promoción de prácticas de economía circular en la gestión de relaves._**
 
-Los objetivos clave incluyen: 
+### **_Los objetivos clave incluyen:_** 
 
 1. Implementar un laboratorio de investigación avanzada en estabilización de relaves.  2. Implementar un programa de formación especializada en gestión sostenible de relaves.  3. Crear una plataforma inteligente de colaboración entre academia, industria y autoridades reguladoras. El proyecto se desarrollará en tres fases: Fase 1-Establecimiento e Investigación Inicial, Fase 2-Implementación y Pruebas Piloto, y Fase 3- Consolidación y Difusión. 
        Se espera que el Observatorio tenga un impacto significativo en la seguridad y sostenibilidad de la industria minera regional, mejorando las prácticas de gestión de relaves, reduciendo potenciales riesgos ecológicos y socioambientales y promoviendo la economía circular. 

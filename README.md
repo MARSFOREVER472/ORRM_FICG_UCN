@@ -39,7 +39,7 @@
 
 **_3. Crear una plataforma inteligente de colaboración entre academia, industria y autoridades reguladoras._**
  
-### El proyecto se desarrollará en tres fases: 
+### **_El proyecto se desarrollará en tres fases:_**
 
 - Fase 1 - Establecimiento e Investigación Inicial, 
 - Fase 2 - Implementación y Pruebas Piloto, y 

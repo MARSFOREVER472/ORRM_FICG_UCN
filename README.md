@@ -41,8 +41,8 @@
  
 ### **_El proyecto se desarrollará en tres fases:_**
 
-- Fase 1 - Establecimiento e Investigación Inicial, 
-- Fase 2 - Implementación y Pruebas Piloto, y 
+- Fase 1 - Establecimiento e Investigación Inicial.
+- Fase 2 - Implementación y Pruebas Piloto.
 - Fase 3 - Consolidación y Difusión. 
 
        Se espera que el Observatorio tenga un impacto significativo en la seguridad y sostenibilidad de la industria minera regional, mejorando las prácticas de gestión de relaves, reduciendo potenciales riesgos ecológicos y socioambientales y promoviendo la economía circular. 

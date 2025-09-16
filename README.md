@@ -41,9 +41,9 @@
  
 ### **_El proyecto se desarrollará en tres fases:_**
 
-- Fase 1 - Establecimiento e Investigación Inicial.
-- Fase 2 - Implementación y Pruebas Piloto.
-- Fase 3 - Consolidación y Difusión. 
+- **_Fase 1 - Establecimiento e Investigación Inicial._**
+- **_Fase 2 - Implementación y Pruebas Piloto._**
+- **_Fase 3 - Consolidación y Difusión._**
 
        Se espera que el Observatorio tenga un impacto significativo en la seguridad y sostenibilidad de la industria minera regional, mejorando las prácticas de gestión de relaves, reduciendo potenciales riesgos ecológicos y socioambientales y promoviendo la economía circular. 
        Los resultados esperados incluyen, la generación de un modelo de gestión sustentable de relaves que articule a los actores pertinentes, la instalación de una gobernanza que oriente el desarrollo del observatorio, el desarrollo de tecnologías innovadoras para la gestión y aprovechamiento de relaves mineros bajo principios de economía circular, la difusión permanente de resultados de investigación científica sobre gestión de relaves, la formación de más de 100 personas en gestión sostenible de relaves, y la  publicación de guías de mejores prácticas para la industria y para las instituciones pertinentes. 

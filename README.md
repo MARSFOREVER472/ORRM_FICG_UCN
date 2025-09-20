@@ -49,12 +49,12 @@
   
 ### Los resultados esperados incluyen:
 
-- la generación de un modelo de gestión sustentable de relaves que articule a los actores pertinentes
--  la instalación de una gobernanza que oriente el desarrollo del observatorio,
--  el desarrollo de tecnologías innovadoras para la gestión y aprovechamiento de relaves mineros bajo principios de economía circular,
--  la difusión permanente de resultados de investigación científica sobre gestión de relaves,
--  la formación de más de 100 personas en gestión sostenible de relaves, y
--  la  publicación de guías de mejores prácticas para la industria y para las instituciones pertinentes. 
+- la generación de un modelo de gestión sustentable de relaves que articule a los actores pertinentes.
+- la instalación de una gobernanza que oriente el desarrollo del observatorio.
+- el desarrollo de tecnologías innovadoras para la gestión y aprovechamiento de relaves mineros bajo principios de economía circular.
+- la difusión permanente de resultados de investigación científica sobre gestión de relaves.
+- la formación de más de 100 personas en gestión sostenible de relaves.
+- la publicación de guías de mejores prácticas para la industria y para las instituciones pertinentes. 
        
 La sostenibilidad del proyecto se asegurará mediante la creación de alianzas estratégicas con empresas mineras, centros y universidades regionales, nacionales e internacionales con experiencia en la gestión de relaves, la generación de servicios de consultoría especializada, y la integración de los resultados en políticas públicas regionales de gestión minera. 
 

@@ -60,7 +60,7 @@
 
 **_La transferencia de conocimientos se facilitará a través de boletines periódicos, publicaciones académicas, seminarios técnicos y una plataforma inteligente que centralice los datos y agregue valor mediante el uso de modelos de machine learning para extraer conocimiento a partir de los datos disponibles (e.g., categorización de relaves críticos, necesidades de intervención, y cálculo de índices de riesgo ambiental)._**
 
-Esta plataforma se alimentará mediante la colaboración entre la academia, industria, y autoridades reguladoras para disponer de datos actualizados y proveer información oportuna.
+**_Esta plataforma se alimentará mediante la colaboración entre la academia, industria, y autoridades reguladoras para disponer de datos actualizados y proveer información oportuna._**
 
 Este proyecto, mejorará la seguridad y sostenibilidad de la industria minera en la Región de Antofagasta y posicionará a la región como un referente nacional y mundial en la gestión innovadora y responsable de relaves mineros.
        

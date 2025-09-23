@@ -62,6 +62,6 @@
 
 **_Esta plataforma se alimentará mediante la colaboración entre la academia, industria, y autoridades reguladoras para disponer de datos actualizados y proveer información oportuna._**
 
-Este proyecto, mejorará la seguridad y sostenibilidad de la industria minera en la Región de Antofagasta y posicionará a la región como un referente nacional y mundial en la gestión innovadora y responsable de relaves mineros.
+**_Este proyecto, mejorará la seguridad y sostenibilidad de la industria minera en la Región de Antofagasta y posicionará a la región como un referente nacional y mundial en la gestión innovadora y responsable de relaves mineros._**
        
 Cabe señalar que esta iniciativa igualmente se encuentra vinculada a la priorización realizada en la Hoja de Ruta elaborada por el Nodo CTCi de la Macrozona Norte, que forma parte de la red de Nodos ANID de fortalecimiento de capacidades CTCi en los territorios. Y al mismo tiempo proyecta sinergias importantes con el Centro Tecnológico de Economía Circular (CircularTec), que se encuentra impulsando la investigación, desarrollo e innovación colaborativa entre la industria, la academia, el Gobierno y el territorio, con miras a potenciar la transición hacia la economía circular, generando valor económico, social y medioambiental.  

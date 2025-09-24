@@ -21,7 +21,7 @@
 
 **_El Observatorio se enfocará en generar conocimiento sobre las brechas existentes en la gestión de relaves, desarrollar, implementar y monitorear tecnologías innovadoras de valorización, gestión, control y estabilización de relaves, combinando investigación científica de vanguardia con aplicaciones prácticas en  colaboración con la industria minera local, universidades e  instituciones nacionales e internacionales, favoreciendo así el desarrollo sostenible de la industria minera, contribuir al desarrollo regional y disponer de información relevante para la toma de decisiones tanto públicas como privadas._**
         
-### **_El proyecto abordará cuatro áreas principales:_**
+### **_El proyecto abordará en 4 áreas principales:_**
 
 **_1) Gestión efectiva de relaves._**
 

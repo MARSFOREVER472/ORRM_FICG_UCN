@@ -17,7 +17,7 @@
 
  ### **_Resumen Ejecutivo del Proyecto:_**
 
-**_El proyecto "Observatorio Regional de Relaves Mineros: Innovación para la Economía Circular y la Sostenibilidad en la Región de Antofagasta " busca establecer un espacio de excelencia para la gestión sostenible de relaves mineros en la región de Antofagasta, considerando los relaves existentes y los que se vayan generando a partir de la actividad minera. Este proyecto se alinea con el Nicho de Especialización NE1.1: Minería como motor de desarrollo económico para el desarrollo sostenible._**
+**_El proyecto "Observatorio Regional de Relaves Mineros: Innovación para la Economía Circular y la Sostenibilidad en la Región de Antofagasta" busca establecer un espacio de excelencia para la gestión sostenible de relaves mineros en la región de Antofagasta, considerando los relaves existentes y los que se vayan generando a partir de la actividad minera. Este proyecto se alinea con el Nicho de Especialización NE1.1: Minería como motor de desarrollo económico para el desarrollo sostenible._**
 
 **_El Observatorio se enfocará en generar conocimiento sobre las brechas existentes en la gestión de relaves, desarrollar, implementar y monitorear tecnologías innovadoras de valorización, gestión, control y estabilización de relaves, combinando investigación científica de vanguardia con aplicaciones prácticas en  colaboración con la industria minera local, universidades e  instituciones nacionales e internacionales, favoreciendo así el desarrollo sostenible de la industria minera, contribuir al desarrollo regional y disponer de información relevante para la toma de decisiones tanto públicas como privadas._**
         

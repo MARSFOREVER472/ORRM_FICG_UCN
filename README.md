@@ -15,7 +15,7 @@
 - **_Tailings Valorization._**
 - **_Collaborative Innovation._**
 
- ### **_Resumen ejecutivo del Proyecto:_**
+ ### **_Resumen Ejecutivo del Proyecto:_**
 
 **_El proyecto "Observatorio Regional de Relaves Mineros: Innovación para la Economía Circular y la Sostenibilidad en la Región de Antofagasta " busca establecer un espacio de excelencia para la gestión sostenible de relaves mineros en la región de Antofagasta, considerando los relaves existentes y los que se vayan generando a partir de la actividad minera. Este proyecto se alinea con el Nicho de Especialización NE1.1: Minería como motor de desarrollo económico para el desarrollo sostenible._**
 

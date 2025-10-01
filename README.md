@@ -47,7 +47,7 @@
 
 **_Se espera que el Observatorio tenga un impacto significativo en la seguridad y sostenibilidad de la industria minera regional, mejorando las prácticas de gestión de relaves, reduciendo potenciales riesgos ecológicos y socioambientales y promoviendo la economía circular._**
   
-### **_Resultados Esperados:_**
+## **_Resultados Esperados:_**
 
 - **_La generación de un modelo de gestión sustentable de relaves que articule a los actores pertinentes._**
 - **_La instalación de una gobernanza que oriente el desarrollo del observatorio._**
@@ -55,6 +55,8 @@
 - **_La difusión permanente de resultados de investigación científica sobre gestión de relaves._**
 - **_La formación de más de 100 personas en gestión sostenible de relaves._**
 - **_La publicación de guías de mejores prácticas para la industria y para las instituciones pertinentes._**
+
+En resumen...
        
 **_La sostenibilidad del proyecto se asegurará mediante la creación de alianzas estratégicas con empresas mineras, centros y universidades regionales, nacionales e internacionales con experiencia en la gestión de relaves, la generación de servicios de consultoría especializada, y la integración de los resultados en políticas públicas regionales de gestión minera._**
 

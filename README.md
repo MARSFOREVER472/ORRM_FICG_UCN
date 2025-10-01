@@ -56,7 +56,7 @@
 - **_La formación de más de 100 personas en gestión sostenible de relaves._**
 - **_La publicación de guías de mejores prácticas para la industria y para las instituciones pertinentes._**
 
-En resumen...
+### En resumen...
        
 **_La sostenibilidad del proyecto se asegurará mediante la creación de alianzas estratégicas con empresas mineras, centros y universidades regionales, nacionales e internacionales con experiencia en la gestión de relaves, la generación de servicios de consultoría especializada, y la integración de los resultados en políticas públicas regionales de gestión minera._**
 

@@ -25,7 +25,7 @@
 
 **_1) Gestión efectiva de relaves._**
 
-**_2) Investigación y desarrollo de  tecnologías innovadoras para la gestión y aprovechamiento de relaves mineros bajo principios de economía circular._**
+**_2) Investigación y desarrollo de tecnologías innovadoras para la gestión y aprovechamiento de relaves mineros bajo principios de economía circular._**
 
 **_3) Formación especializada._**
 

@@ -1,6 +1,6 @@
 # **_ORRM_FICG_UCN_**
 
-### **_Observatorio Regional de Relaves Mineros: Innovación para la Economía Circular y la Sostenibilidad en la Región de Antofagasta (Mockup de Referencia hecho con Bootstrap 5)._**
+### **_Observatorio Regional de Relaves Mineros: Innovación para la Economía Circular y la Sostenibilidad en la Región de Antofagasta (Mockup de Referencia realizado con Bootstrap 5)._**
 
 - **_Este proyecto busca establecer un centro de excelencia para la gestión sostenible de relaves mineros en la Macrozona Norte de Chile, pues se alinea con el Nicho de Especialización NE1.1: Minería como motor de desarrollo económico para el desarrollo sostenible._**
 
@@ -21,11 +21,11 @@
 
 **_El Observatorio se enfocará en generar conocimiento sobre las brechas existentes en la gestión de relaves, desarrollar, implementar y monitorear tecnologías innovadoras de valorización, gestión, control y estabilización de relaves, combinando investigación científica de vanguardia con aplicaciones prácticas en  colaboración con la industria minera local, universidades e  instituciones nacionales e internacionales, favoreciendo así el desarrollo sostenible de la industria minera, contribuir al desarrollo regional y disponer de información relevante para la toma de decisiones tanto públicas como privadas._**
         
-### **_El Proyecto abordará en 4 Áreas Principales:_**
+### **_Este Proyecto abordará en 4 Áreas Principales:_**
 
 **_1) Gestión efectiva de relaves._**
 
-**_2) Investigación y desarrollo de  tecnologías innovadoras para la gestión y aprovechamiento de relaves mineros bajo principios de economía circular._**
+**_2) Investigación y desarrollo de tecnologías innovadoras para la gestión y aprovechamiento de relaves mineros bajo principios de economía circular._**
 
 **_3) Formación especializada._**
 

@@ -6,7 +6,7 @@
     <title>Ubicación UCN</title>
 
     <link rel="icon" type="image/x-icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Om_symbol.svg/1987px-Om_symbol.svg.png">
-
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <link rel="stylesheet" href="css/bootstrap.min.css">
 
 </head>
@@ -196,7 +196,69 @@
         </nav>
     </header>
 
+    <div class="bg-image" style="background-image: url('https://huayeahtextile.com/wp-content/uploads/2020/03/car-seat-fabric.jpeg'); height: 150vh; background-size: cover">
+
+    <main class="container">
+
+        <!--- UBICACIÓN -->
+
+        <div class="row py-5">
+            <div class="col">
+                <div class="border-bottom">
+                    <div class=".text-shadow-custom" style="text-shadow: -1px -1px 1px #aaa, 0px 4px 1px rgba(0, 0, 0, 0.5), 4px 4px 5px rgba(0, 0, 0, 0.7),0px 0px 7px rgba(0, 0, 0, 0.4);">
+                        <h1 class="text-dark text-center">Ubicación UCN</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+
+            <div class="col">
+
+                <div class="container">
+
+                    <div class=".text-shadow-custom" style="text-shadow: -1px -1px 1px #aaa, 0px 4px 1px rgba(0, 0, 0, 0.5), 4px 4px 5px rgba(0, 0, 0, 0.7),0px 0px 7px rgba(0, 0, 0, 0.4);">
+
+                        <div class="ratio ratio-16x9"> <!-- Example using Bootstrap 5 ratio utility -->
+                            
+                            <iframe src="YOUR_GOOGLE_MAPS_EMBED_URL" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class=".text-shadow-custom" style="text-shadow: -1px -1px 1px #aaa, 0px 4px 1px rgba(0, 0, 0, 0.5), 4px 4px 5px rgba(0, 0, 0, 0.7),0px 0px 7px rgba(0, 0, 0, 0.4);">
+
+            <footer class="d-flex flex-wrap justify-content-center align-items-center py-3 my-4 border-top">
+            <p class="d-flex text-light text-center align-items-center">Todos los derechos © 2025 Observatorio Regional de Relaves Mineros | Financiado por Gobierno Regional Antofagasta</p>
+            </footer>
+            
+        </div>
+
+    </main>
+
     <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var map = L.map('map').setView([40.730610, -73.935242], 12); // Example coordinates
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+      }).addTo(map);
+
+      L.marker([40.730610, -73.935242]).addTo(map)
+        .bindPopup('Your location')
+        .openPopup();
+    });
+    </script>
     
 </body>
 </html>

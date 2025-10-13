@@ -10,95 +10,312 @@
 </head>
 <body>
 
-    <div class="container">
-        <div class="row">
-            <div class="col mb-3">
-                <form action="">
-                    <div class="row">
-                        <div class="col-12 col-md-6 mb-3">
+    <header>
+        <nav class="navbar navbar-dark bg-dark">
+            <div class="container">
+                <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
+                    <div class="sidebar-brand-icon"></div>
+                        
+                    <div class="sidebar-brand-text mx-3">
 
-                            <label for="name" class="form-label">Nombre</label>
-                            <input type="text" class="form-control" placeholder="Juan Pérez" id="name">
+                        <img src="img/logo-removebg-preview.png" width="150px" margin-left="auto">
 
-                        </div>
-
-                        <div class="col-12 col-md-6 mb-3">
-
-                            <label for="mail" class="form-label">E-Mail</label>
-                            <input type="email" class="form-control" placeholder="juan.perez@gmail.com" id="mail">
-
-                        </div>
                     </div>
+                </a>
+                <button
+                    class="navbar-toggler"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#contenidoMain"
+                    aria-controls="contenidoMain"
+                    aria-expanded="false"
+                    aria-label="Mostrar/Ocultar Navegación"
+                >
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 
-                    <div class="row">
-                        <div class="col-12 col-md-6 mb-3">
-                            
-                            <label for="message" class="form-label">Mensaje</label>
-                            <textarea name="message" id="message" class="form-control"></textarea>
+                <div class="collapse navbar-collapse" id="contenidoMain">
 
-                        </div>
+                    <!-- PESTAÑAS -->
 
-                        <div class="col-6 mb-3">
-                            <div class="row">
-                                <div class="col-12 col-sm-6 mb-3">
+                    <ul class="navbar-nav ms-auto">
 
-                                    <label class="form-label">Estado Civil</label>
+                        <ul class="navbar-nav me-auto">
 
-                                    <div class="form-check">
+                        <li class="nav-item dropdown">
+                            <a 
+                                href="#" 
+                                class="nav-link dropdown-toggle"
+                                id="subMenuTransparencia"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                            >
+                                Inicio
+                            </a>
 
-                                        <input type="radio" class="form-check-input" name="marriage-status" id="single">
-                                        <label for="single" class="form-check-label">Soltero</label>
-                                    
-                                    </div>
+                            <!-- Sub-elementos -->
 
-                                    <div class="form-check">
+                            <ul class="dropdown-menu" aria-labelledby="subMenuTransparencia">
 
-                                        <input type="radio" class="form-check-input" name="marriage-status" id="married">
-                                        <label for="married" class="form-check-label">Casado</label>
+                                <li><a href="observatorio.html" class="dropdown-item">Presentación del Observatorio</a></li>
+                                <li><a href="info.html" class="dropdown-item">Acerca del Observatorio</a></li>
+                                <li><a href="https://www.ucn.cl/comunicaciones-ucn/noticias/ucn-realizo-el-lanzamiento-de-observatorio-regional-de-relaves-mineros/" class="dropdown-item">Últimas Noticias</a></li>
+                                <li><a href="cursos.html" class="dropdown-item">Acceso a Cursos</a></li>
 
-                                    </div>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a 
+                                href="#" 
+                                class="nav-link dropdown-toggle"
+                                id="subMenuTransparencia"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                            >
+                                Cursos
+                            </a>
 
-                                </div>
+                            <!-- Sub-elementos -->
 
-                                <div class="col-12 col-sm-6 mb-3">
+                            <ul class="dropdown-menu" aria-labelledby="subMenuTransparencia">
 
-                                    <label class="form-label">Pais</label>
+                                <li><a href="gestionRelaves.html" class="dropdown-item">Gestión de Relaves</a></li>
+                                <li><a href="economiaCircular.html" class="dropdown-item">Economía Circular</a></li>
+                                <li><a href="normativas.html" class="dropdown-item">Normativas Mineras</a></li>
+                                <li><a href="certificaciones.html" class="dropdown-item">Certificaciones</a></li>
 
-                                    <select name="country" id="country" class="form-select">
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a 
+                                href="#" 
+                                class="nav-link dropdown-toggle"
+                                id="subMenuTransparencia"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                            >
+                                Herramientas
+                            </a>
 
-                                        <option value="chile">Chile</option>
-                                        <option value="peru">Peru</option>
-                                        <option value="argentina">Argentina</option>
+                            <!-- Sub-elementos -->
 
-                                    </select>
+                            <ul class="dropdown-menu" aria-labelledby="subMenuTransparencia">
 
-                                </div>
+                                <li><a href="calculadoras.html" class="dropdown-item">Calculadoras de Impacto</a></li>
+                                <li><a href="simuladores.html" class="dropdown-item">Simuladores de Procesos</a></li>
+                                <li><a href="biblioteca.html" class="dropdown-item">Biblioteca de Documentos</a></li>
+                                <li><a href="casosEstudio.html" class="dropdown-item">Casos de Estudio</a></li>
 
-                            </div>
-                        </div>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a 
+                                href="#" 
+                                class="nav-link dropdown-toggle"
+                                id="subMenuTransparencia"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                            >
+                                Foros
+                            </a>
+
+                            <!-- Sub-elementos -->
+
+                            <ul class="dropdown-menu" aria-labelledby="subMenuTransparencia">
+
+                                <li><a href="trivia.html" class="dropdown-item">Preguntas y Respuestas</a></li>
+                                <li><a href="experiencias.html" class="dropdown-item">Experiencias Compartidas</a></li>
+                                <li><a href="network.html" class="dropdown-item">Networking Profesional</a></li>
+
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a 
+                                href="#" 
+                                class="nav-link dropdown-toggle"
+                                id="subMenuTransparencia"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                            >
+                                Nosotros
+                            </a>
+
+                            <!-- Sub-elementos -->
+
+                            <ul class="dropdown-menu" aria-labelledby="subMenuTransparencia">
+
+                                <li><a href="participantes.html" class="dropdown-item">Participantes</a></li>
+                                <li><a href="objetivos.html" class="dropdown-item">Objetivos del proyecto</a></li>
+                                <li><a href="noticias.html" class="dropdown-item">Noticias</a></li>
+
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a 
+                                href="#" 
+                                class="nav-link dropdown-toggle"
+                                id="subMenuTransparencia"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false"
+                            >
+                                Contacto
+                            </a>
+
+                            <!-- Sub-elementos -->
+
+                            <ul class="dropdown-menu" aria-labelledby="subMenuTransparencia">
+
+                                <li><a href="formulario.html" class="dropdown-item">Formulario de Contacto</a></li>
+                                <li><a href="ubicacion.html" class="dropdown-item">Ubicación UCN</a></li>
+                                <li><a href="redesSociales.html" class="dropdown-item">Redes Sociales</a></li>
+
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a href="accesibilidad.html" class="nav-link">Accesibilidad</a>
+                        </li>
+
+                    </ul>
+
+                    <form action="" class="d-flex">
+
+                        <input type="search" class="form-control me-2" placeholder="Buscar" aria-label="Buscar">
+                        <button class="btn btn-outline-light" type="submit">Buscar</button>
+
+                    </form>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="bg-image" style="background-image: url('https://www.mhcworld.co.za/cdn/shop/files/circles-Photoroom.jpg?v=1753357809'); height: 180vh; background-size: cover">
+
+    <main class="container">
+
+        <!--- FORMULARIO DE CONTACTO -->
+
+        <div class="row py-5">
+            <div class="col">
+                <div class="border-bottom">
+                    <div class=".text-shadow-custom" style="text-shadow: -1px -1px 1px #aaa, 0px 4px 1px rgba(0, 0, 0, 0.5), 4px 4px 5px rgba(0, 0, 0, 0.7),0px 0px 7px rgba(0, 0, 0, 0.4);">
+                        <h1 class="text-dark text-center">Formulario de Contacto</h1>
                     </div>
-
-                    <div class="row">
-                        <div class="col-12 d-flex justify-content-center">
-
-                            <div class="text-center">
-
-                                <div class="form-check mb-3">
-
-                                    <input type="checkbox" name="terms" id="terms" class="form-check-input">
-                                    <label for="terms" class="form-check-label">Acepto los términos y condiciones de uso</label>
-
-                                </div>
-
-                                <button type="submit" class="col-12 btn btn-primary">Enviar</button>
-
-                            </div>
-                        </div>
-                    </div>
-                </form>
+                </div>
             </div>
         </div>
+
+        <div class="row">
+
+            <div class="col">
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col mb-3">
+                            <form action="">
+                                <div class="row">
+                                    <div class="col-12 col-md-6 mb-3">
+
+                                        <label for="name" class="form-label">Nombre</label>
+                                        <input type="text" class="form-control" placeholder="Juan Pérez" id="name">
+
+                                    </div>
+
+                                    <div class="col-12 col-md-6 mb-3">
+
+                                        <label for="mail" class="form-label">E-Mail</label>
+                                        <input type="email" class="form-control" placeholder="juan.perez@gmail.com" id="mail">
+
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-12 col-md-6 mb-3">
+                            
+                                        <label for="message" class="form-label">Mensaje</label>
+                                        <textarea name="message" id="message" class="form-control"></textarea>
+
+                                    </div>
+
+                                    <div class="col-6 mb-3">
+                                        <div class="row">
+                                            <div class="col-12 col-sm-6 mb-3">
+
+                                                <label class="form-label">Estado Civil</label>
+
+                                            <div class="form-check">
+
+                                                <input type="radio" class="form-check-input" name="marriage-status" id="single">
+                                                <label for="single" class="form-check-label">Soltero</label>
+                                    
+                                            </div>
+
+                                            <div class="form-check">
+
+                                                <input type="radio" class="form-check-input" name="marriage-status" id="married">
+                                                <label for="married" class="form-check-label">Casado</label>
+
+                                            </div>
+
+                                        </div>
+
+                                        <div class="col-12 col-sm-6 mb-3">
+
+                                            <label class="form-label">Pais</label>
+
+                                            <select name="country" id="country" class="form-select">
+
+                                                <option value="chile">Chile</option>
+                                                <option value="peru">Peru</option>
+                                                <option value="argentina">Argentina</option>
+
+                                            </select>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                
+                                <div class="col-12 d-flex justify-content-center">
+
+                                    <div class="text-center">
+
+                                        <div class="form-check mb-3">
+
+                                            <input type="checkbox" name="terms" id="terms" class="form-check-input">
+                                            <label for="terms" class="form-check-label">Acepto los términos y condiciones de uso</label>
+
+                                        </div>
+
+                                    <button type="submit" class="col-12 btn btn-primary">Enviar</button>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </form>
+
+                </div>
+
+            </div>
+
+        </div>
+
     </div>
+    
+</div>
+
+
 
     <script src="../js/bootstrap.bundle.min.js"></script>
     

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios mediante técnicas de un "grid"</title>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col mb-3">
+                <form action="">
+                    <div class="row">
+                        <div class="col-12 col-md-6 mb-3">
+
+                            <label for="name" class="form-label">Nombre</label>
+                            <input type="text" class="form-control" placeholder="Juan Pérez" id="name">
+
+                        </div>
+
+                        <div class="col-12 col-md-6 mb-3">
+
+                            <label for="mail" class="form-label">E-Mail</label>
+                            <input type="email" class="form-control" placeholder="juan.perez@gmail.com" id="mail">
+
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12 col-md-6 mb-3">
+                            
+                            <label for="message" class="form-label">Mensaje</label>
+                            <textarea name="message" id="message" class="form-control"></textarea>
+
+                        </div>
+
+                        <div class="col-6 mb-3">
+                            <div class="row">
+                                <div class="col-12 col-sm-6 mb-3">
+
+                                    <label class="form-label">Estado Civil</label>
+
+                                    <div class="form-check">
+
+                                        <input type="radio" class="form-check-input" name="marriage-status" id="single">
+                                        <label for="single" class="form-check-label">Soltero</label>
+                                    
+                                    </div>
+
+                                    <div class="form-check">
+
+                                        <input type="radio" class="form-check-input" name="marriage-status" id="married">
+                                        <label for="married" class="form-check-label">Casado</label>
+
+                                    </div>
+
+                                </div>
+
+                                <div class="col-12 col-sm-6 mb-3">
+
+                                    <label class="form-label">Pais</label>
+
+                                    <select name="country" id="country" class="form-select">
+
+                                        <option value="chile">Chile</option>
+                                        <option value="peru">Peru</option>
+                                        <option value="argentina">Argentina</option>
+
+                                    </select>
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-12 d-flex justify-content-center">
+
+                            <div class="text-center">
+
+                                <div class="form-check mb-3">
+
+                                    <input type="checkbox" name="terms" id="terms" class="form-check-input">
+                                    <label for="terms" class="form-check-label">Acepto los términos y condiciones de uso</label>
+
+                                </div>
+
+                                <button type="submit" class="col-12 btn btn-primary">Enviar</button>
+
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/bootstrap.bundle.min.js"></script>
+    
+</body>
+</html>

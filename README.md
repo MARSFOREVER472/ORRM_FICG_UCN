@@ -4,7 +4,7 @@
 
 - **_Este proyecto busca establecer un centro de excelencia para la gestión sostenible de relaves mineros en la Macrozona Norte de Chile, pues se alinea con el Nicho de Especialización NE1.1: Minería como motor de desarrollo económico para el desarrollo sostenible._**
 
-- **_También se alinea con la EMRA 2023-2050 en su OE2: Minería Sustentable, que en el corto plazo apunta a “Reducir la generación de residuos mineros y facilitar su valoración.”_**
+- **_También se alinea con la EMRA 2023-2050 en su OE2: Minería Sustentable, que dentro del corto plazo apunta a “Reducir la generación de residuos mineros y así poder facilitar su valoración.”_**
 
 ### **_Palabras Clave:_**
 
@@ -50,7 +50,7 @@
 ## **_Resultados Esperados:_**
 
 - **_La generación de un modelo de gestión sustentable de relaves que articule a los actores pertinentes._**
-- **_La instalación de una gobernanza que oriente el desarrollo del observatorio._**
+- **_La instalación de una gobernanza que permita orientar el desarrollo del observatorio._**
 - **_El desarrollo de tecnologías innovadoras para la gestión y aprovechamiento de relaves mineros bajo principios de economía circular._**
 - **_La difusión permanente de resultados de investigación científica sobre gestión de relaves._**
 - **_La formación de más de 100 personas en gestión sostenible de relaves._**

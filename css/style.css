@@ -1,3 +1,5 @@
+/* PRINCIPAL */
+
 body 
 {
     box-sizing: border-box;
@@ -8,6 +10,8 @@ body
     min-height: 100vh;
 }
 
+/* FORMULARIO... */
+
 form
 {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
@@ -17,4 +21,22 @@ form
     flex-direction: column;
     text-align: center;
     width: 380px;
+}
+
+/* ENCABEZADO DEL FORMULARIO... */
+
+form h2
+{
+    font-size: 35px;
+    color: #0D0D0D;
+    margin: 0;
+}
+
+/* TEXTOS DEL FORMULARIO... */
+
+form p
+{
+    font-size: 16px;
+    color: #5E5E5E;
+    margin-bottom: 35px;
 }

@@ -1,1 +1,9 @@
-/* EN INSTANTES... */
+body 
+{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}

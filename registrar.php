@@ -11,45 +11,24 @@
 <body>
 
     <form method="post" >
-
-    <h2>Hola</h2>
-    <p>Inicia tu registro AQUÍ!!!!</p>
-
-    <div class="input-wrapper">
-
-        <input type="text" name="name" placeholder="Nombre" >
-        <img class="input-icon" src="img/user-svgrepo-com.svg" alt="">
-
-    </div>
-
-    <div class="input-wrapper">
-
-        <input type="email" name="email" placeholder="Email" >
-        <img class="input-icon" src="img/email-1572-svgrepo-com.svg" alt="">
-
-    </div>
-
-    <div class="input-wrapper">
-
-        <input type="text" name="direction" placeholder="Direccion" >
-        <img class="input-icon" src="img/direction-svgrepo-com.svg" alt="">
-
-    </div>
-
-    <div class="input-wrapper">
-
-        <input type="tel" name="phone" placeholder="Telefono" >
-        <img class="input-icon" src="img/phone-svgrepo-com.svg" alt="">
-
-    </div>
-
-    <div class="input-wrapper">
-
-        <input type="password" name="password" placeholder="Contraseña" >
-        <img class="input-icon" src="img/password-minimalistic-svgrepo-com.svg" alt="">
-
-    </div>
-
+        <h2>Hola</h2>
+        <p>Inicia tu registro AQUÍ!!!!</p>
+        <div class="input-wrapper">
+            <input type="text" name="name" placeholder="Nombre" >
+        </div>
+        <div class="input-wrapper">
+            <input type="email" name="email" placeholder="Email" >
+        </div>
+        <div class="input-wrapper">
+            <input type="text" name="direction" placeholder="Direccion" >
+        </div>
+        <div class="input-wrapper">
+            <input type="tel" name="phone" placeholder="Telefono" >
+        </div>
+        <div class="input-wrapper">
+            <input type="password" name="password" placeholder="Contraseña" >
+        </div>
+        <input class="btn" type="submit" name="register" value="Enviar">
     </form>
     
 </body>

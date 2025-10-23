@@ -7,3 +7,14 @@ body
     align-items: center;
     min-height: 100vh;
 }
+
+form
+{
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    padding: 50px 35px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 380px;
+}

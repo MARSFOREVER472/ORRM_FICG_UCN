@@ -40,3 +40,24 @@ form p
     color: #5E5E5E;
     margin-bottom: 35px;
 }
+
+/* CAMPOS DE TEXTO EN BLANCO... */
+
+.input-wrapper
+{
+    position: relative;
+    width: 305px;
+    margin-bottom: 35px;
+}
+
+/* PARA TECLEAR CUALQUIERA... */
+
+input
+{
+    color: #0D0D0D;
+    padding: 20px 15px 20px 60px;
+    width: 100%;
+    border-radius: 25px;
+    border: 0;
+    box-shadow: 0 0 20px rgba(192, 203, 251, 0.7);
+}

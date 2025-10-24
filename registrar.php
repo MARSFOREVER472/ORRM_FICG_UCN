@@ -54,6 +54,10 @@
         <input class="btn" type="submit" name="register" value="Enviar">
 
     </form>
+
+    <?php
+        include("registro.php");
+    ?>
     
 </body>
 </html>

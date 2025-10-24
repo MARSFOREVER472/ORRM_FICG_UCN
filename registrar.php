@@ -26,33 +26,33 @@
         <div class="input-wrapper">
 
             <input type="email" name="email" placeholder="Email" >
-            <img class="input-icon" src="img/user-svgrepo-com.svg" alt="">
+            <img class="input-icon" src="img/email-1572-svgrepo-com.svg" alt="">
 
         </div>
 
         <div class="input-wrapper">
 
             <input type="text" name="direction" placeholder="Direccion" >
-            <img class="input-icon" src="img/user-svgrepo-com.svg" alt="">
+            <img class="input-icon" src="img/direction-svgrepo-com.svg" alt="">
 
         </div>
 
         <div class="input-wrapper">
 
             <input type="tel" name="phone" placeholder="Telefono" >
-            <img class="input-icon" src="img/user-svgrepo-com.svg" alt="">
+            <img class="input-icon" src="img/phone-svgrepo-com.svg" alt="">
 
         </div>
 
         <div class="input-wrapper">
 
             <input type="password" name="password" placeholder="Contraseña" >
-            <img class="input-icon" src="img/user-svgrepo-com.svg" alt="">
+            <img class="input-icon" src="img/password-minimalistic-svgrepo-com.svg" alt="">
 
         </div>
 
         <input class="btn" type="submit" name="register" value="Enviar">
-        
+
     </form>
     
 </body>

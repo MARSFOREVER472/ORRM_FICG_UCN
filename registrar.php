@@ -15,6 +15,7 @@
         <p>Inicia tu registro AQUÍ!!!!</p>
         <div class="input-wrapper">
             <input type="text" name="name" placeholder="Nombre" >
+            <img class="input-icon" src="img/user-svgrepo-com.svg" alt="">
         </div>
         <div class="input-wrapper">
             <input type="email" name="email" placeholder="Email" >

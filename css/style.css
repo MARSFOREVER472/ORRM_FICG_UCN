@@ -63,3 +63,21 @@ input
     outline: none;
     font-size: 16px;
 }
+
+/* DENTRO DEL CAMPO DE TEXTO (MISMA CARACTERÍSTICA)... */
+
+input::placeholder
+{
+    font-size: 16px;
+    color: #BBBBE2;
+}
+
+.input-icon
+{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-55%);
+}

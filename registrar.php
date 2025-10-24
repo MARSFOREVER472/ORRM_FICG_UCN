@@ -11,25 +11,48 @@
 <body>
 
     <form method="post" >
+
         <h2>Hola</h2>
+
         <p>Inicia tu registro AQUÍ!!!!</p>
+
         <div class="input-wrapper">
+
             <input type="text" name="name" placeholder="Nombre" >
             <img class="input-icon" src="img/user-svgrepo-com.svg" alt="">
+
         </div>
+
         <div class="input-wrapper">
+
             <input type="email" name="email" placeholder="Email" >
+            <img class="input-icon" src="img/user-svgrepo-com.svg" alt="">
+
         </div>
+
         <div class="input-wrapper">
+
             <input type="text" name="direction" placeholder="Direccion" >
+            <img class="input-icon" src="img/user-svgrepo-com.svg" alt="">
+
         </div>
+
         <div class="input-wrapper">
+
             <input type="tel" name="phone" placeholder="Telefono" >
+            <img class="input-icon" src="img/user-svgrepo-com.svg" alt="">
+
         </div>
+
         <div class="input-wrapper">
+
             <input type="password" name="password" placeholder="Contraseña" >
+            <img class="input-icon" src="img/user-svgrepo-com.svg" alt="">
+
         </div>
+
         <input class="btn" type="submit" name="register" value="Enviar">
+        
     </form>
     
 </body>

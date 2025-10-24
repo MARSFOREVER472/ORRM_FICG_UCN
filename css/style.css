@@ -99,3 +99,10 @@ input::placeholder
     font-size: 14px;
     cursor: pointer;
 }
+
+/* AL PASAR POR EL BOTÓN CON EL CURSOR... */
+
+.btn:hover
+{
+    background: rgb(153, 47, 252);
+}

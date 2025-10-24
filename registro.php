@@ -19,7 +19,7 @@ if (isset($_POST['register']))
             $fecha = date("d/m/y");
             $consulta = "INSERT INTO datos(nombre, email, direccion, telefono, contraseña, fecha)
                 VALUES('$name', '$email', '$direction', '$phone', '$password', '$fecha')";
-            $resultado = mysqli_connect($conex, $consulta);
+            $resultado = mysqli_query($conex, $consulta);
             if ($resultado)
             {
              ?>

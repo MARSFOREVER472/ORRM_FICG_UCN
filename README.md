@@ -60,7 +60,7 @@
        
 **_La sostenibilidad del proyecto se asegurará mediante la creación de alianzas estratégicas con empresas mineras, centros y universidades regionales, nacionales e internacionales con experiencia en la gestión de relaves, la generación de servicios de consultoría especializada, y la integración de los resultados en políticas públicas regionales de gestión minera._**
 
-**_La transferencia de conocimientos se facilitará a través de boletines periódicos, publicaciones académicas, seminarios técnicos y una plataforma inteligente que centralice los datos y agregue valor mediante el uso de modelos de machine learning para extraer conocimiento a partir de los datos disponibles (e.g., categorización de relaves críticos, necesidades de intervención, y cálculo de índices de riesgo ambiental)._**
+**_La transferencia de conocimientos se facilitará a través de boletines periódicos, publicaciones académicas, seminarios técnicos y una plataforma inteligente que centralice los datos y agregue valor mediante el uso de modelos de machine learning para extraer conocimiento a partir de los datos disponibles (e.g., categorización de los relaves críticos, necesidades de intervención, y cálculo de índices de riesgo ambiental)._**
 
 **_Esta plataforma se alimentará mediante la colaboración entre la academia, industria, y autoridades reguladoras para disponer de datos actualizados y proveer información oportuna._**
 

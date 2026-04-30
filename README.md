@@ -9,17 +9,22 @@
 ### **_Palabras Clave:_**
 
 - **_Mining Tailings._**
+  
 - **_Circular Economy._**
+
 - **_Sustainable Mining._**
+  
 - **_Environmental Risk Mitigation._**
+  
 - **_Tailings Valorization._**
+  
 - **_Collaborative Innovation._**
 
  ### **_Resumen Ejecutivo del Proyecto:_**
 
 **_El proyecto "Observatorio Regional de Relaves Mineros: Innovación para la Economía Circular y la Sostenibilidad en la Región de Antofagasta" busca establecer un espacio de excelencia para la gestión sostenible de relaves mineros en la región de Antofagasta, considerando los relaves existentes y los que se vayan generando a partir de la actividad minera. Este proyecto se alinea con el Nicho de Especialización NE1.1: Minería como motor de desarrollo económico para el desarrollo sostenible._**
 
-**_El Observatorio se enfocará en generar conocimiento sobre las brechas existentes en la gestión de relaves, desarrollar, implementar y monitorear tecnologías innovadoras de valorización, gestión, control y estabilización de relaves, combinando investigación científica de vanguardia con aplicaciones prácticas en  colaboración con la industria minera local, universidades e  instituciones nacionales e internacionales, favoreciendo así el desarrollo sostenible de la industria minera, contribuir al desarrollo regional y disponer de información relevante para la toma de decisiones tanto públicas como privadas._**
+**_El Observatorio se enfocará en generar conocimiento sobre las brechas existentes en la Gestión de Relaves, desarrollar, implementar y monitorear tecnologías innovadoras de valorización, gestión, control y estabilización de relaves, combinando investigación científica de vanguardia con aplicaciones prácticas en  colaboración con la industria minera local, universidades e  instituciones nacionales e internacionales, favoreciendo así el desarrollo sostenible de la industria minera, contribuir al desarrollo regional y disponer de información relevante para la toma de decisiones tanto públicas como privadas._**
         
 ### **_Este Proyecto se abordará en 4 Áreas Principales:_**
 
@@ -42,7 +47,9 @@
 ### **_Este Proyecto se desarrollará en 3 Fases:_**
 
 - **_Fase 1 - Establecimiento e Investigación Inicial._**
+  
 - **_Fase 2 - Implementación y Pruebas Piloto._**
+
 - **_Fase 3 - Consolidación y Difusión._**
 
 **_Se espera que el Observatorio tenga un impacto significativo en la seguridad y sostenibilidad de la industria minera regional, mejorando las prácticas de gestión de relaves, reduciendo potenciales riesgos ecológicos y socioambientales y promoviendo la economía circular._**
@@ -50,10 +57,15 @@
 ## **_Resultados Esperados:_**
 
 - **_La generación de un modelo de gestión sustentable de relaves que articule a los actores pertinentes._**
+  
 - **_La instalación de una gobernanza que permita orientar el desarrollo del observatorio._**
+  
 - **_El desarrollo de tecnologías innovadoras para la gestión y aprovechamiento de relaves mineros bajo principios de economía circular._**
+  
 - **_La difusión permanente de resultados de investigación científica sobre gestión de relaves._**
+  
 - **_La formación de más de 100 personas en gestión sostenible de relaves._**
+  
 - **_La publicación de guías de mejores prácticas para la industria y para las instituciones pertinentes._**
 
 ### **_En resumen..._**

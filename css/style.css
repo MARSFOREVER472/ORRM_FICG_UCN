@@ -19,6 +19,13 @@ body
     padding: 40px;
 }
 
+/* PARA AGREGAR SOMBRA A CADA CONTENEDOR... */
+
+.shadow
+{
+    box-shadow: 5px 5px 15px gray;
+}
+
 /* FORMULARIO... */
 
 form

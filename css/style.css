@@ -19,6 +19,13 @@ body
     padding: 40px;
 }
 
+.row3 > div 
+{
+    background: #00a2ff;
+    margin: 10px 0;
+    padding: 40px;
+}
+
 /* PARA AGREGAR SOMBRA A CADA CONTENEDOR... */
 
 .shadow

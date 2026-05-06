@@ -21,7 +21,7 @@ body
 
 .row3 > div 
 {
-    background: #00a2ff;
+    background: linear-gradient(darkred, gold);
     margin: 10px 0;
     padding: 40px;
 }

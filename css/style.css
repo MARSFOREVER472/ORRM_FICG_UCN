@@ -26,6 +26,12 @@ body
     padding: 40px;
 }
 
+.pic
+{
+    margin-right: 20px; /* Distancia a la Derecha */
+    margin-bottom: 15px; /* Distancia Abajo */
+}
+
 /* PARA AGREGAR SOMBRA A CADA CONTENEDOR... */
 
 .shadow

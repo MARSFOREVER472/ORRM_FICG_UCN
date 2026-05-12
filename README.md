@@ -36,7 +36,7 @@
 
 **_4) Promoción de prácticas de economía circular en la gestión de relaves._**
 
-### **_Los Objetivos Clave incluyen:_** 
+### **_Objetivos Clave:_** 
 
 **_1. Implementar un laboratorio de investigación avanzada en estabilización de relaves._**
  
